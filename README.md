@@ -11,7 +11,7 @@ This project implements a real-time human detection system using YOLOv8 and Deep
 ## Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/cctv-monitor.git cd cctv-monitor
+git clone https://github.com/Arnav-chib/cctv_human.git cd cctv-monitor
 
 
 ### 2. Set up the Environment
