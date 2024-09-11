@@ -1,0 +1,39 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# Ignore IDE settings (for IntelliJ, PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive environment files (if you use environment variables for emails, etc.)
+.env
+
+# Ignore built distributions
+dist/
+build/
+
+# Ignore compiled files (Cython, etc.)
+*.so
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.out
+*.o
