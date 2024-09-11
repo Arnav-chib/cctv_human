@@ -37,4 +37,6 @@ build/
 *.dll
 *.out
 *.o
-*.pt
+yolov8x.pt
+yolov8m.pt
+yolov8n.pt
